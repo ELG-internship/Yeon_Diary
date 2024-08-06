@@ -1,8 +1,6 @@
 ## 수행한 일
 
 - DISC 검사 > D 유형이 나옴 : 주도형
-![image](https://github.com/user-attachments/assets/93e2e029-0660-40b6-a094-e2ec169b9fe1)
-
 - 새로운 걸 시도 > 처음에 거부 반응
     - change 과정, 동기부여
     - 이득과 RISK를 알고 하기
